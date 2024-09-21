@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b471f50f-3a94-4778-aead-f0f8340821af" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/wavtokenizer_smalldata_frame40_3s_nq1_code4096_dim512_kmeans200_attn.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/wavtokenizer_smalldata_frame75_3s_nq1_code4096_dim512_kmeans200_attn.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/demo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/discriminator_dac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/discriminators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/experiment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/feature_extractors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/heads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/modules.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/pretrained.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/pretrained_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/decoder/spectral_ops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/distrib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/conv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/lstm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/norm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/seanet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/modules/transformer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/msstftd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/quantization/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/quantization/ac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/quantization/core_vq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/quantization/vq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encoder/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metrics/UTMOS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metrics/infer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/metrics/periodicity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mMUqZW3FDy42oRH0ao3DoPaQAo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/luca/Scrivania/PhD/PycharmProjects/WavTokenizer",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/wavtokenizer" />
+      <recent name="$PROJECT_DIR$/wavtokenizer/configs" />
+      <recent name="$PROJECT_DIR$/wavtokenizer/decoder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wavtokenizer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.infer (1)">
+    <configuration name="infer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WavTokenizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WavTokenizer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wavtokenizer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wavtokenizer/infer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.infer (1)" />
+        <item itemvalue="Python.infer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b471f50f-3a94-4778-aead-f0f8340821af" name="Changes" comment="" />
+      <created>1726886129800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726886129800</updated>
+      <workItem from="1726886130970" duration="2063000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WavTokenizer$infer.coverage" NAME="infer Coverage Results" MODIFIED="1726886654868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wavtokenizer" />
+    <SUITE FILE_PATH="coverage/WavTokenizer$infer__1_.coverage" NAME="infer (1) Coverage Results" MODIFIED="1726888094701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
